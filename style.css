@@ -5,7 +5,7 @@ body{
     font-size: 13px;
     --color: #eee;
     color: var(--color);
-    background-color: #23282E;
+    background-color: #000000;
 }
 a{
     text-decoration: none;
@@ -46,7 +46,7 @@ header nav a{
     position: relative;
 }
 #intro{
-    background-color: #16222D;
+    background-color: #000000;
 }
 #intro .avatar{
     text-align: right;
@@ -73,7 +73,7 @@ header nav a{
 }
 .text-gradient{
     background-image: linear-gradient(
-        to right, #E4454A, #CA3EA7
+        to right,#3800e0b8, #E4454A, #CA3EA7
     );
     display: inline-block;
     -webkit-text-fill-color: transparent;
